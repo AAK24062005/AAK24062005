@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Coding Competition 
-- 📫 How to reach me ...
+- 📫 How to reach me LinkedIn 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Loves Gaming and Coding
 
